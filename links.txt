@@ -1,0 +1,9 @@
+example https://example.org
+
+# our website
+e https://elbits.no
+
+# some of our partners
+lede https://lede.no
+elvia https://elvia.no
+
